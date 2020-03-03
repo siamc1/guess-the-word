@@ -1,0 +1,6 @@
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\bin\Debug\GuessTheWord.exe
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\bin\Debug\GuessTheWord.pdb
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.exe
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.pdb
