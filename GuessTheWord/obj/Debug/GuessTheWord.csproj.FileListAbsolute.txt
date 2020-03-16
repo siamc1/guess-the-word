@@ -4,3 +4,4 @@ C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\bin\Debug\GuessTheWor
 C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\bin\Debug\GuessTheWord.pdb
 C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.exe
 C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.pdb
+C:\Users\Siam\Documents\GitHub\guess-the-word\GuessTheWord\obj\Debug\GuessTheWord.csprojResolveAssemblyReference.cache
